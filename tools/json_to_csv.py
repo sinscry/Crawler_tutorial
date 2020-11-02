@@ -3,10 +3,10 @@ import csv
 import json
 
 rows = []
-for line in open('xinhuo.json', 'r',encoding='utf8'):
+for line in open('sample.json', 'r',encoding='utf8'):
     rows.append(json.loads(line))
 
-f = open('xinhuo.csv', 'w',encoding='utf8')
+f = open('sample.csv', 'w',encoding='utf8')
 csv_write = csv.writer(f)
 
 # writerow: 按行写入，　writerows: 是批量写入
