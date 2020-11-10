@@ -1,10 +1,10 @@
 # scrapy爬虫
 
-*关于爬取数据提醒*
+*关于爬取数据提醒
 
 
-<img src="./claude_monet.jpg" width="850" height="">
-![图片](./claude_monet.jpg)
+
+![photo](./claude_monet.jpg)
 <hr>
 
 #### 爬虫基础
